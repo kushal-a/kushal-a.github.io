@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Project"
-permalink: /project/
+title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
 
-{% for post in site.project %}
+{% for post in site.projects %}
   {% include archive-single.html %}
 {% endfor %}
