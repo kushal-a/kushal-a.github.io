@@ -10,142 +10,107 @@ redirect_from:
 {% include base_path %}
 ## Quick Links {#quick-links}
 
-[**Quick Links	1**](#quick-links)
-
-[**Accolades	2**](#accolades)
-
-[**Professional Experience	4**](#professional-experience)
-
-[Cyber Physical Systems, TU Darmstadt	4](#cyber-physical-systems,-tu-darmstadt)
-
-[Systemantics India PVT LTD	4](#systemantics-india-pvt-ltd)
-
-[**Education	6**](#education)
-
-[Carnegie Mellon University	6](#carnegie-mellon-university)
-
-[Indian Institute of Technology Bombay	6](#indian-institute-of-technology-bombay)
-
-[**Other Industry Experience	8**](#other-industry-experience)
-
-[Bajaj Auto LTD	8](#bajaj-auto-ltd)
-
-[Solinas	8](#solinas)
-
-[Jaguar LandRover	8](#jaguar-landrover)
-
-[**Research Experience	10**](#research-experience)
-
-[Mars Rover Team	10](#mars-rover-team)
-
-[ARMS Lab	11](#arms-lab)
-
-[Stoch Lab	11](#stoch-lab)
-
-[**Projects	13**](#projects)
-
-[Small Business Web Management	13](#small-business-web-management)
-
-[Carbon Negative Cycling	13](#carbon-negative-cycling)
-
-[Logistics Robot	13](#logistics-robot)
-
-[**Management Roles	15**](#management-roles)
-
-[Teaching Assistant	15](#teaching-assistant)
-
-[Inter IIT Technical Board	15](#inter-iit-technical-board)
-
-[Mars Rover Team IIT Bombay	16](#mars-rover-team-iit-bombay)
-
-[Institute Technical Council	16](#institute-technical-council)
-
-[Electronics and Robotics Club	16](#electronics-and-robotics-club)
-
-[Student Mentorship Program	17](#student-mentorship-program)
-
-[Mechanical Engineering Association	17](#mechanical-engineering-association)
-
-[**Extra-Curriculars	19**](#extra-curriculars)
+- [**Accolades**](#accolades)
+- [**Professional Experience**](#professional-experience)
+    - [Cyber Physical Systems, TU Darmstadt](#cyber-physical-systems,-tu-darmstadt)
+    - [Systemantics India PVT LTD](#systemantics-india-pvt-ltd)
+- [**Education**](#education)
+    - [Carnegie Mellon University](#carnegie-mellon-university)
+    - [Indian Institute of Technology Bombay](#indian-institute-of-technology-bombay)
+- [**Other Industry Experience**](#other-industry-experience)
+    - [Bajaj Auto LTD](#bajaj-auto-ltd)
+    - [Solinas](#solinas)
+    - [Jaguar LandRover](#jaguar-landrover)
+- [**Research Experience**](#research-experience)
+    - [Mars Rover Team](#mars-rover-team)
+    - [ARMS Lab](#arms-lab)
+    - [Stoch Lab](#stoch-lab)
+- [**Projects**](#projects)
+    - [Small Business Web Management](#small-business-web-management)
+    - [Carbon Negative Cycling](#carbon-negative-cycling)
+    - [Logistics Robot](#logistics-robot)
+- [**Management Roles**](#management-roles)
+    - [Teaching Assistant](#teaching-assistant)
+    - [Inter IIT Technical Board](#inter-iit-technical-board)
+    - [Mars Rover Team IIT Bombay](#mars-rover-team-iit-bombay)
+    - [Institute Technical Council](#institute-technical-council)
+    - [Electronics and Robotics Club](#electronics-and-robotics-club)
+    - [Student Mentorship Program](#student-mentorship-program)
+    - [Mechanical Engineering Association](#mechanical-engineering-association)
+- [**Extra-Curriculars**](#extra-curriculars)
 
 ## Accolades {#accolades}
 
-| Type | Description |  | Year |
-| :---- | :---- | ----- | :---- |
-| Patent | Agarwal K., Jajoriya M., Upadhyay A., Chodankar A.,” Electromechanical Extendable Slurry Cleaning Device”, 2024 |  | 2024 |
-| Patent | Agarwal K., Dutta A., Gupta A., Jajoriya M., Upadhyay A., Karim S.,” Ergonomic Domestic Direct Air Capture System for Bicycle Integration Utilizing Solid-Phase Absorbents”, 2024 |  | 2024 |
-| Award | Bestowed with the Overall Outstanding Student Award among 200 graduating students at IIT Bombay |  | 2025 |
-| Award | Nominated for the Dr. Shankar Dayal Sharma (Former President of India) Gold Medal for General Proficiency among 2000 graduating students at IIT Bombay |  | 2025 |
-| Award | Endowed with the Deutscher Akademischer Austauschdienst (DAAD) scholarship for research in Germany |  | 2024 |
-| Award | Ranked 18th among 220+ students in the Mechanical Engineering Department, class of 2025 at IIT Bombay |  | 2024 |
-| Award | Qualified as Finalist of Vishwakarma Prize by Maker Bhavan Foundation for engineering innovation |  | 2024 |
-| Award | Secured nationwide 2nd in TORQ competition by Bajaj Auto on engine design for fuel compatibility |  | 2024 |
-| Academic | Awarded 2 AP grades showcasing excellence in courses covering microprocessors, electronics & controls |  | 2024 |
-| Scolastic | Represented IIT Bombay at the Asian University Alliance Forum on Sustainable Technology | \[3/10000+\] |  | 2024 |
-| Award | Secured 4th position in Product Design Problem Statement and 4th overall at the Inter IIT Tech Meet 12.0  |  | 2023 |
-| Award | Secured 2nd position in Robotics Problem Statement and 3rd overall at the Inter IIT Tech Meet 11.0  |  | 2022 |
-| Award | Secured an All India Rank 464 (\< 0.3%) in the JEE Advanced examination among 0.15 million+ candidates |  | 2021 |
-| Award | Secured an All India Rank 804 (\< 0.05%) in the JEE Main examination among 1.5 million+ candidates |  | 2021 |
-| Award | Awarded the Kishore Vaigyanik Protsahan Yojana scholarship by IISc Bangalore and Department of Science and Technology, Government of India |  | 2020 |
-|  |  |  |  |
-
-## 
+| Type | Description | Year |
+| :----: | :----  | ----: |
+| Patent | Agarwal K., Jajoriya M., Upadhyay A., Chodankar A.,” Electromechanical Extendable Slurry Cleaning Device”, 2024 | 2024 |
+| Patent | Agarwal K., Dutta A., Gupta A., Jajoriya M., Upadhyay A., Karim S.,” Ergonomic Domestic Direct Air Capture System for Bicycle Integration Utilizing Solid-Phase Absorbents”, 2024 | 2024 |
+| Award | Bestowed with the Overall Outstanding Student Award among 200 graduating students at IIT Bombay | 2025 |
+| Award | Nominated for the Dr. Shankar Dayal Sharma (Former President of India) Gold Medal for General Proficiency among 2000 graduating students at IIT Bombay | 2025 |
+| Award | Endowed with the Deutscher Akademischer Austauschdienst (DAAD) scholarship for research in Germany | 2024 |
+| Award | Ranked 18th among 220+ students in the Mechanical Engineering Department, class of 2025 at IIT Bombay | 2024 |
+| Award | Qualified as Finalist of Vishwakarma Prize by Maker Bhavan Foundation for engineering innovation | 2024 |
+| Award | Secured nationwide 2nd in TORQ competition by Bajaj Auto on engine design for fuel compatibility | 2024 |
+| Academic | Awarded 2 AP grades showcasing excellence in courses covering microprocessors, electronics & controls | 2024 |
+| Scolastic | Represented IIT Bombay at the Asian University Alliance Forum on Sustainable Technology \| \[3/10000+\] | 2024 |
+| Award | Secured 4th position in Product Design Problem Statement and 4th overall at the Inter IIT Tech Meet 12.0  | 2023 |
+| Award | Secured 2nd position in Robotics Problem Statement and 3rd overall at the Inter IIT Tech Meet 11.0  | 2022 |
+| Award | Secured an All India Rank 464 (\< 0.3%) in the JEE Advanced examination among 0.15 million+ candidates | 2021 |
+| Award | Secured an All India Rank 804 (\< 0.05%) in the JEE Main examination among 1.5 million+ candidates | 2021 |
+| Award | Awarded the Kishore Vaigyanik Protsahan Yojana scholarship by IISc Bangalore and Department of Science and Technology, Government of India | 2020 |
 
 ## Professional Experience {#professional-experience}
 
-|  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- |
-| Company:  |  |  | Period: |  |
-|  | Role:  |  | Period:  |  |
-|  |  |  |  |  |
-|  | Role:  |  | Period:  |  |
-|  |  |  |  |  |
-| Company:  | **Cyber Physical Systems, TU Darmstadt** |  | Period: | May24 \- Jul24 |
-|  | Role:  | Research Intern | Period:  | May24 \- Jul24 |
-|  |  | Developed a 2R high-precision robotic device to move an intensity sensor on the screen of mSLA 3D printers. This characterized geometric aberrations by the internal lenses. Used 3D printer driver to implement custom firmware. Developed a low-level controller for driving steppers and a motion planner that ensure complete coverage of the screen. Used filters to prevent motion noise in sensor readings. Simulated the effect of temperature, pixelation, attenuation by resin and chemical diffusivity on resin curing kinetics for graded structures. Developed several Arduino tests to verify analytical estimates. Skills:	Process Modelling, Embedded systems, Firmware design, Motion planning, Data structures, Systems Integration, Stepper control Software: MATLAB, C++ programming References: Prof. Oliver Weeger Felix Rutch, PhD Student |  |  |
-| Company:  | **Systemantics India PVT LTD** |  | Period: | May23 \- Jul23 |
-|  | Role:  | Design Intern | Period:  | May23 \- Jul23 |
-|  |  | Designed a momentum observer to serve as a collision detector as well as a kinesthetic learner in a robotic arm. Calculated energy estimates to detect collisions. As a kinesthetic learner, momentum was used to calculate motor torques required to follow a certain trajectory. Used domain neural abstraction to develop object-oriented system design in C improving modularity of the source code in STM32 processors. Implemented features as services in FreeRTOS processes to ensure predictable functioning. Used CAN for communication between host and joint controllers for high frequency data transfer. Developed custom messages for state information and fault detection. Skills:	Control system design, CAN protocol, Embedded Systems, Real-time systems Software:	STM32 CudeIDE References: Dr. Jagannath Raju, CTO Mr. Rohan Deshpande, Team Lead |  |  |
-|  |  |  |  |  |
-
-### 
+ |  |  |  |
+| :---- | :---- | :---- |
+ | **Cyber Physical Systems, TU Darmstadt** | | May24 \- Jul24 |
+| Role:  | Research Intern  | May24 \- Jul24 |
+|  | Developed a 2R high-precision robotic device to move an intensity sensor on the screen of mSLA 3D printers. This characterized geometric aberrations by the internal lenses. Used 3D printer driver to implement custom firmware. Developed a low-level controller for driving steppers and a motion planner that ensure complete coverage of the screen. Used filters to prevent motion noise in sensor readings. Simulated the effect of temperature, pixelation, attenuation by resin and chemical diffusivity on resin curing kinetics for graded structures. Developed several Arduino tests to verify analytical estimates. Skills:	Process Modelling, Embedded systems, Firmware design, Motion planning, Data structures, Systems Integration, Stepper control Software: MATLAB, C++ programming References: Prof. Oliver Weeger Felix Rutch, PhD Student |  |
+ | **Systemantics India PVT LTD** |  | May23 \- Jul23 |
+| Role:  | Design Intern | May23 \- Jul23 |
+|  | Designed a momentum observer to serve as a collision detector as well as a kinesthetic learner in a robotic arm. Calculated energy estimates to detect collisions. As a kinesthetic learner, momentum was used to calculate motor torques required to follow a certain trajectory. Used domain neural abstraction to develop object-oriented system design in C improving modularity of the source code in STM32 processors. Implemented features as services in FreeRTOS processes to ensure predictable functioning. Used CAN for communication between host and joint controllers for high frequency data transfer. Developed custom messages for state information and fault detection. Skills:	Control system design, CAN protocol, Embedded Systems, Real-time systems Software:	STM32 CudeIDE References: Dr. Jagannath Raju, CTO Mr. Rohan Deshpande, Team Lead | |
 
 ## Education {#education}
 
-| University:  | Carnegie Mellon University |  |  |  |  | Period: |  |  |  | Aug25-May27 |  |  |  |
-| :---- | :---- | :---- | ----- | ----- | :---- | :---- | ----- | ----- | ----- | :---- | ----- | ----- | ----- |
-|  | Degree:  | Masters of Science Robotic Systems Development |  |  |  | Period:  |  |  |  | Aug25-May272 years |  |  |  |
-|  | Department: | Robotics Institute, School of Computer Science |  |  |  | Grade: |  |  |  |  |  |  |  |
-|  | Courses: | **Engineering:** Manipulation, Estimation, & Control Systems Engineering and Management for Robotics Robot Mobility on Air, Land, & Sea Computer Vision Robot Autonomy  |  |  | **Business:**  Introduction to Robotics Business Advanced Topics in Robotics Business  |  |  |  |  |  |  |  |  |
-| University:  | **Indian Institute of Technology Bombay** |  |  |  |  | Period: |  |  |  | Nov21-Jun25 |  |  |  |
-|  | Degree:  | Bachelors of Technology in Mechanical Engineering with Honors and Minor in Systems and Controls Engineering |  |  |  | Period:  |  |  |  | Nov21-Jun254 years |  |  |  |
-|  | Department: | Department of Mechanical EngineeringDepartment of Systems and Controls Engineering |  |  |  | Grade: |  |  |  | 9.29/10 |  |  |  |
-|  |  |  |  |  |  | Rank: |  |  |  | 18/200 |  |  |  |
-|  | Courses: | **Math:** Calculus Linear Algebra Differential Equations Numerical Analysis Operations Modeling and Analysis Mathematical Structures for Control **Mechanics** Theory+Practical**:** Solid Mechanics  Thermodynamics  Fluid Mechanics  Manufacturing Processes Manufacturing Practice Heat Transfer Kinematics and Dynamics of Machines CFD and HT Machine Design Multiscale Materials Informatics, Discovery and Design  Structural Materials Advanced Engineering Dynamics Rapid Product Development |  |  | **Foundation Engineering:** Computer Programming Engineering Mechanics Engineering Graphics & Drawing Electricity & Magnetism Electrical and Electronics Circuits Mechanical Measurements (Theory+Practical) Metrology **Robotics:**  Microprocessors and Automatic Control Guidance & Control of Unmanned Autonomous Vehicles Digital Image Processing Design of Mechatronic Systems Embedded Systems Internet of Things Computer Vision Multivariable Control Linear and Nonlinear Systems Systems Theory Embedded Control & Robotics Signals and Feedback Systems **General:**  Organic & Inorganic Chemistry Physical Chemistry Quantum Physics Biology Economics Psychology Environmental Studies Quantitative Models for Supply Chain Management |  |  |  |  |  |  |  |  |
+### Carnegie Mellon University
 
-### 
+| <h4>**Degree**| **Department** |
+| :----    | :---- | 
+| Masters of Science Robotic Systems Development | Robotics Institute, School of Computer Science  | 
+| <h4> **Period** |  **Grade** | 
+| Aug25-May27 2 years |  |
+| <h4> **Courses** | |
+| <h5> **Engineering** | **Business** |
+| Manipulation, Estimation, & Control Systems Engineering and Management for Robotics Robot Mobility on Air, Land, & Sea Computer Vision Robot Autonomy   |   Introduction to Robotics Business Advanced Topics in Robotics Business  | 
+
+### **Indian Institute of Technology Bombay** 
+
+| <h4>**Degree**| **Department** |
+| :----    | :---- | 
+| Bachelors of Technology in Mechanical Engineering with Honors and Minor in Systems and Controls Engineering | Department of Mechanical Engineering <br> Department of Systems and Controls Engineering  | 
+| <h4> **Period** |  **Grade** | 
+| Nov21-Jun25 4 years | 9.29/10 |
+| <h4> Rank: | 18/200 |
+| <h4> **Courses** | |
+| <h5> **Math** | **Mechanics** Theory+Practical|
+| Calculus Linear Algebra Differential Equations Numerical Analysis Operations Modeling and Analysis Mathematical Structures for Control  |   Solid Mechanics  Thermodynamics  Fluid Mechanics  Manufacturing Processes Manufacturing Practice Heat Transfer Kinematics and Dynamics of Machines CFD and HT Machine Design Multiscale Materials Informatics, Discovery and Design  Structural Materials Advanced Engineering Dynamics Rapid Product Development | 
+| <h5> **Foundation Engineering:** | **Robotics:** |
+| Computer Programming Engineering Mechanics Engineering Graphics & Drawing Electricity & Magnetism Electrical and Electronics Circuits Mechanical Measurements (Theory+Practical) Metrology | Microprocessors and Automatic Control Guidance & Control of Unmanned Autonomous Vehicles Digital Image Processing Design of Mechatronic Systems Embedded Systems Internet of Things Computer Vision Multivariable Control Linear and Nonlinear Systems Systems Theory Embedded Control & Robotics Signals and Feedback Systems |
+ **General:**  Organic & Inorganic Chemistry Physical Chemistry Quantum Physics Biology Economics Psychology Environmental Studies Quantitative Models for Supply Chain Management 
 
 ## Other Industry Experience {#other-industry-experience}
 
-|  |  |  |  |  |
-| :---- | :---- | :---- | :---- | :---- |
-| Company:  |  |  | Period: |  |
-|  | Role:  |  | Period:  |  |
-|  |  |  |  |  |
-|  | Role:  |  | Period:  |  |
-|  |  |  |  |  |
-| Company:  | **Bajaj Auto LTD** |  | Period: | Jan24- Mar24 |
-|  | Project:  | Engine Design for Eco-fuels | Period:  | Jan24- Mar24 |
-|  |  | Part of a 3-member team; secured 2nd place nationwide in TORQ among 4.2K+ students, received 2.4k$ cash prize and PPI Proposed changes in design and materials of parts of a 2-wheeler drivetrain to improve compatibility with eco-fuels Identified monetary benefits of $ 4B+ p.a. and proposed business and logistical re-models for aid large-scale adoption |  |  |
-| Company:  | **Solinas** |  | Period: | Nov23- Dec23 |
-|  | Project:  | Waterproof Extendable Shaft for Slurry Mixing | Period:  | Nov23- Dec23 |
-|  |  | Part of a 5-member team; secured 4th place in Inter IIT Tech Meet 12.0 among 23 IITs, bagged overall 3rd place nationwide Designed a telescopic mechanism to extend from 1 mts to 5 mts with a single touch gear change using a common motor Developed control algorithm allowing flexibility in shaft length and mixer torque along with a user interaction panel  |  |  |
-| Company:  | **Jaguar LandRover** |  | Period: | Jan23 \- Mar23 |
-|  | Project:  | Autonomous Charging Station  | Period:  | Jan23 \- Mar23 |
-|  |  | Part of a 15-member team; secured 2nd place in Inter IIT Tech Meet 11.0 among 23 IITs, bagged overall 4th place nationwide Characterized a cuboidal workspace to design and optimize links of a 5 DoF robotic arm to plug in EV chargers in sockets Developed full navigation stack from socket identification scans, planning and motion in cluttered environment and push-in manoeuvre. Optimized energy consumption in trajectories by generating minimum snap trajectories. Used YOLOv7 to detect position and calculate orientation of sockets. Used encoders and camera feed to localize with AMCL |  |  |
-|  |  |  |  |  |
-
-### 
+|  |  |  |
+| :---- | :---- | :---- |
+| **Bajaj Auto LTD** |  | Jan24- Mar24 |
+| Project:  | Engine Design for Eco-fuels | Period:  | Jan24- Mar24 |
+|  | Part of a 3-member team; secured 2nd place nationwide in TORQ among 4.2K+ students, received 2.4k$ cash prize and PPI Proposed changes in design and materials of parts of a 2-wheeler drivetrain to improve compatibility with eco-fuels Identified monetary benefits of $ 4B+ p.a. and proposed business and logistical re-models for aid large-scale adoption |   |
+ | **Solinas** |   | Nov23- Dec23 |
+| Project:  | Waterproof Extendable Shaft for Slurry Mixing  | Nov23- Dec23 |
+|  | Part of a 5-member team; secured 4th place in Inter IIT Tech Meet 12.0 among 23 IITs, bagged overall 3rd place nationwide Designed a telescopic mechanism to extend from 1 mts to 5 mts with a single touch gear change using a common motor Developed control algorithm allowing flexibility in shaft length and mixer torque along with a user interaction panel  |  |
+| **Jaguar LandRover** |   | Jan23 \- Mar23 |
+| Project:  | Autonomous Charging Station   | Jan23 \- Mar23 |
+ |  | Part of a 15-member team; secured 2nd place in Inter IIT Tech Meet 11.0 among 23 IITs, bagged overall 4th place nationwide Characterized a cuboidal workspace to design and optimize links of a 5 DoF robotic arm to plug in EV chargers in sockets Developed full navigation stack from socket identification scans, planning and motion in cluttered environment and push-in manoeuvre. Optimized energy consumption in trajectories by generating minimum snap trajectories. Used YOLOv7 to detect position and calculate orientation of sockets. Used encoders and camera feed to localize with AMCL |   |
 
 ## Research Experience {#research-experience}
 
