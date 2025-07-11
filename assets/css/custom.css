@@ -13,6 +13,10 @@
     height: 180px;
     padding: 0px 15px 0px 0px;
     box-sizing: content-box;
+    text-wrap: auto;
+    align-content: flex-end;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
 
