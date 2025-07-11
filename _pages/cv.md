@@ -80,6 +80,18 @@ redirect_from:
 
 ## Education {#education}
 
+### **Carnegie Mellon University**
+
+:::{list-table}
+*  - dfgh
+   - rt
+   - dfrtg
+:::
+| **Degree:** | Masters of Science Robotic Systems Development |
+| **Department:** | Robotics Institute, School of Computer Science |
+
+
+
 <table border="0" cellspacing="0" cellpadding="0" class="ta1">
         <colgroup>
             <col width="99" />
@@ -90,7 +102,7 @@ redirect_from:
         </colgroup>
         <tr class="ro1">
             <td colspan="3" style="text-align:left;width:2.258cm; " class="ce1">
-                <h3>Carnegie Mellon University</h3>
+                <h3></h3>
             </td>
             <td style="text-align:left;width:1.612cm; " class="ce2">
                 <p>Period:</p>
@@ -101,10 +113,10 @@ redirect_from:
         </tr>
         <tr class="ro2">
             <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p>Degree: </p>
+                <p> </p>
             </td>
             <td colspan="2" style="text-align:left;width:6.664cm; " class="ce5">
-                <p>Masters of Science Robotic Systems Development</p>
+                <p></p>
             </td>
             <td style="text-align:left;width:1.612cm; " class="ce2">
                 <p>Period: </p>
@@ -116,10 +128,10 @@ redirect_from:
         </tr>
         <tr class="ro3">
             <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p>Department:</p>
+                <p></p>
             </td>
             <td colspan="2" style="text-align:left;width:6.664cm; " class="ce5">
-                <p>Robotics Institute, School of Computer Science</p>
+                <p></p>
             </td>
             <td style="text-align:left;width:1.612cm; " class="ce2">
                 <p>Grade:</p>
