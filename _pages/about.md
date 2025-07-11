@@ -13,13 +13,13 @@ I pursued my undergraduate from Indian Institute of Technology Bombay with a maj
 
 ## Latest Projects and Updates
 <div class="scrolling-wrapper">
-  <div class="card"><h3>[Manufacturing Management Portal]()</h3></div>
-  <div class="card"><h3>Card</h3></div>
-  <div class="card"><h3>Card</h3></div>
-  <div class="card"><h3>Card</h3></div>
-  <div class="card"><h3>Card</h3></div>
-  <div class="card"><h3>Card</h3></div>
-  <div class="card"><h3>Card</h3></div>
+  <div class="card">
+    <h3> Manufacturing Management Portal </h3>
+    <p> Made with HTML, JS, PHP and SQL to manage jobs at manufacturing farms </p>
+  </div>
+  <div class="card">
+    <h3>Card</h3>
+  </div>
   <div class="card"><h3>Card</h3></div>
   <div class="card"><h3>Card</h3></div>
 </div>
