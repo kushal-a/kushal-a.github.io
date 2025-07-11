@@ -61,20 +61,28 @@ redirect_from:
 
 ## Professional Experience {#professional-experience}
 
- |  |  |  |
-| :---- | :---- | :---- |
- | **Cyber Physical Systems, TU Darmstadt** | | May24 \- Jul24 |
-| Role:  | Research Intern  | May24 \- Jul24 |
-|  | Developed a 2R high-precision robotic device to move an intensity sensor on the screen of mSLA 3D printers. This characterized geometric aberrations by the internal lenses. Used 3D printer driver to implement custom firmware. Developed a low-level controller for driving steppers and a motion planner that ensure complete coverage of the screen. Used filters to prevent motion noise in sensor readings. Simulated the effect of temperature, pixelation, attenuation by resin and chemical diffusivity on resin curing kinetics for graded structures. Developed several Arduino tests to verify analytical estimates. Skills:	Process Modelling, Embedded systems, Firmware design, Motion planning, Data structures, Systems Integration, Stepper control Software: MATLAB, C++ programming References: Prof. Oliver Weeger Felix Rutch, PhD Student |  |
- | **Systemantics India PVT LTD** |  | May23 \- Jul23 |
-| Role:  | Design Intern | May23 \- Jul23 |
-|  | Designed a momentum observer to serve as a collision detector as well as a kinesthetic learner in a robotic arm. Calculated energy estimates to detect collisions. As a kinesthetic learner, momentum was used to calculate motor torques required to follow a certain trajectory. Used domain neural abstraction to develop object-oriented system design in C improving modularity of the source code in STM32 processors. Implemented features as services in FreeRTOS processes to ensure predictable functioning. Used CAN for communication between host and joint controllers for high frequency data transfer. Developed custom messages for state information and fault detection. Skills:	Control system design, CAN protocol, Embedded Systems, Real-time systems Software:	STM32 CudeIDE References: Dr. Jagannath Raju, CTO Mr. Rohan Deshpande, Team Lead | |
+
+### **Cyber Physical Systems, TU Darmstadt** | | May24 \- Jul24 |
+
+**Role:**  Research Intern 
+
+**Period:** May24 \- Jul24
+
+  Developed a 2R high-precision robotic device to move an intensity sensor on the screen of mSLA 3D printers. This characterized geometric aberrations by the internal lenses. Used 3D printer driver to implement custom firmware. Developed a low-level controller for driving steppers and a motion planner that ensure complete coverage of the screen. Used filters to prevent motion noise in sensor readings. Simulated the effect of temperature, pixelation, attenuation by resin and chemical diffusivity on resin curing kinetics for graded structures. Developed several Arduino tests to verify analytical estimates. Skills:	Process Modelling, Embedded systems, Firmware design, Motion planning, Data structures, Systems Integration, Stepper control Software: MATLAB, C++ programming References: Prof. Oliver Weeger Felix Rutch, PhD Student
+  
+### **Systemantics India PVT LTD** 
+
+**Role:** Design Intern
+
+**Period:** May23 \- Jul23
+
+  Designed a momentum observer to serve as a collision detector as well as a kinesthetic learner in a robotic arm. Calculated energy estimates to detect collisions. As a kinesthetic learner, momentum was used to calculate motor torques required to follow a certain trajectory. Used domain neural abstraction to develop object-oriented system design in C improving modularity of the source code in STM32 processors. Implemented features as services in FreeRTOS processes to ensure predictable functioning. Used CAN for communication between host and joint controllers for high frequency data transfer. Developed custom messages for state information and fault detection. Skills:	Control system design, CAN protocol, Embedded Systems, Real-time systems Software:	STM32 CudeIDE References: Dr. Jagannath Raju, CTO Mr. Rohan Deshpande, Team Lead 
 
 ## Education {#education}
 
 ### Carnegie Mellon University
 
-| <h4>**Degree**| **Department** |
+| <h4> **Degree** </h4> | **Department** |
 | :----    | :---- | 
 | Masters of Science Robotic Systems Development | Robotics Institute, School of Computer Science  | 
 | <h4> **Period** |  **Grade** | 
