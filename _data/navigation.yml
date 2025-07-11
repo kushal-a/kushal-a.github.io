@@ -24,7 +24,7 @@ main:
     url: /patents/    
 
   - title: "Case Studies"
-    url: /case-studies/ 
+    url: /case_studies/ 
     
   - title: "Blog Posts"
     url: /year-archive/
