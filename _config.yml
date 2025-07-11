@@ -228,6 +228,17 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
+  patents:
+    output: true
+    permalink: /:collection/:path/
+  case_studies:
+    output: true
+    permalink: /:collection/:path/
+  
+  
 
 
 # These settings control how pages and collections are included in the site
@@ -285,6 +296,31 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+      author_profile: true
+      share: true
+  # _case_studies
+  - scope:
+      path: ""
+      type: case_studies
+    values:
+      layout: case_study
+      author_profile: true
+      share: true
+  # _patents
+  - scope:
+      path: ""
+      type: patents
+    values:
+      layout: patent
+      author_profile: true
+      share: true
+  
 
 
 # Sass/SCSS
