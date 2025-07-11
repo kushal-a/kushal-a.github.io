@@ -8,57 +8,249 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Quick Links {#quick-links}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[**Quick Links	1**](#quick-links)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[**Accolades	2**](#accolades)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[**Professional Experience	4**](#professional-experience)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+[Cyber Physical Systems, TU Darmstadt	4](#cyber-physical-systems,-tu-darmstadt)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Systemantics India PVT LTD	4](#systemantics-india-pvt-ltd)
+
+[**Education	6**](#education)
+
+[Carnegie Mellon University	6](#carnegie-mellon-university)
+
+[Indian Institute of Technology Bombay	6](#indian-institute-of-technology-bombay)
+
+[**Other Industry Experience	8**](#other-industry-experience)
+
+[Bajaj Auto LTD	8](#bajaj-auto-ltd)
+
+[Solinas	8](#solinas)
+
+[Jaguar LandRover	8](#jaguar-landrover)
+
+[**Research Experience	10**](#research-experience)
+
+[Mars Rover Team	10](#mars-rover-team)
+
+[ARMS Lab	11](#arms-lab)
+
+[Stoch Lab	11](#stoch-lab)
+
+[**Projects	13**](#projects)
+
+[Small Business Web Management	13](#small-business-web-management)
+
+[Carbon Negative Cycling	13](#carbon-negative-cycling)
+
+[Logistics Robot	13](#logistics-robot)
+
+[**Management Roles	15**](#management-roles)
+
+[Teaching Assistant	15](#teaching-assistant)
+
+[Inter IIT Technical Board	15](#inter-iit-technical-board)
+
+[Mars Rover Team IIT Bombay	16](#mars-rover-team-iit-bombay)
+
+[Institute Technical Council	16](#institute-technical-council)
+
+[Electronics and Robotics Club	16](#electronics-and-robotics-club)
+
+[Student Mentorship Program	17](#student-mentorship-program)
+
+[Mechanical Engineering Association	17](#mechanical-engineering-association)
+
+[**Extra-Curriculars	19**](#extra-curriculars)
+
+## Accolades {#accolades}
+
+| Type | Description |  | Year |
+| :---- | :---- | ----- | :---- |
+| Patent | Agarwal K., Jajoriya M., Upadhyay A., Chodankar A.,” Electromechanical Extendable Slurry Cleaning Device”, 2024 |  | 2024 |
+| Patent | Agarwal K., Dutta A., Gupta A., Jajoriya M., Upadhyay A., Karim S.,” Ergonomic Domestic Direct Air Capture System for Bicycle Integration Utilizing Solid-Phase Absorbents”, 2024 |  | 2024 |
+| Award | Bestowed with the Overall Outstanding Student Award among 200 graduating students at IIT Bombay |  | 2025 |
+| Award | Nominated for the Dr. Shankar Dayal Sharma (Former President of India) Gold Medal for General Proficiency among 2000 graduating students at IIT Bombay |  | 2025 |
+| Award | Endowed with the Deutscher Akademischer Austauschdienst (DAAD) scholarship for research in Germany |  | 2024 |
+| Award | Ranked 18th among 220+ students in the Mechanical Engineering Department, class of 2025 at IIT Bombay |  | 2024 |
+| Award | Qualified as Finalist of Vishwakarma Prize by Maker Bhavan Foundation for engineering innovation |  | 2024 |
+| Award | Secured nationwide 2nd in TORQ competition by Bajaj Auto on engine design for fuel compatibility |  | 2024 |
+| Academic | Awarded 2 AP grades showcasing excellence in courses covering microprocessors, electronics & controls |  | 2024 |
+| Scolastic | Represented IIT Bombay at the Asian University Alliance Forum on Sustainable Technology | \[3/10000+\] |  | 2024 |
+| Award | Secured 4th position in Product Design Problem Statement and 4th overall at the Inter IIT Tech Meet 12.0  |  | 2023 |
+| Award | Secured 2nd position in Robotics Problem Statement and 3rd overall at the Inter IIT Tech Meet 11.0  |  | 2022 |
+| Award | Secured an All India Rank 464 (\< 0.3%) in the JEE Advanced examination among 0.15 million+ candidates |  | 2021 |
+| Award | Secured an All India Rank 804 (\< 0.05%) in the JEE Main examination among 1.5 million+ candidates |  | 2021 |
+| Award | Awarded the Kishore Vaigyanik Protsahan Yojana scholarship by IISc Bangalore and Department of Science and Technology, Government of India |  | 2020 |
+|  |  |  |  |
+
+## 
+
+## Professional Experience {#professional-experience}
+
+|  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- |
+| Company:  |  |  | Period: |  |
+|  | Role:  |  | Period:  |  |
+|  |  |  |  |  |
+|  | Role:  |  | Period:  |  |
+|  |  |  |  |  |
+| Company:  | **Cyber Physical Systems, TU Darmstadt** |  | Period: | May24 \- Jul24 |
+|  | Role:  | Research Intern | Period:  | May24 \- Jul24 |
+|  |  | Developed a 2R high-precision robotic device to move an intensity sensor on the screen of mSLA 3D printers. This characterized geometric aberrations by the internal lenses. Used 3D printer driver to implement custom firmware. Developed a low-level controller for driving steppers and a motion planner that ensure complete coverage of the screen. Used filters to prevent motion noise in sensor readings. Simulated the effect of temperature, pixelation, attenuation by resin and chemical diffusivity on resin curing kinetics for graded structures. Developed several Arduino tests to verify analytical estimates. Skills:	Process Modelling, Embedded systems, Firmware design, Motion planning, Data structures, Systems Integration, Stepper control Software: MATLAB, C++ programming References: Prof. Oliver Weeger Felix Rutch, PhD Student |  |  |
+| Company:  | **Systemantics India PVT LTD** |  | Period: | May23 \- Jul23 |
+|  | Role:  | Design Intern | Period:  | May23 \- Jul23 |
+|  |  | Designed a momentum observer to serve as a collision detector as well as a kinesthetic learner in a robotic arm. Calculated energy estimates to detect collisions. As a kinesthetic learner, momentum was used to calculate motor torques required to follow a certain trajectory. Used domain neural abstraction to develop object-oriented system design in C improving modularity of the source code in STM32 processors. Implemented features as services in FreeRTOS processes to ensure predictable functioning. Used CAN for communication between host and joint controllers for high frequency data transfer. Developed custom messages for state information and fault detection. Skills:	Control system design, CAN protocol, Embedded Systems, Real-time systems Software:	STM32 CudeIDE References: Dr. Jagannath Raju, CTO Mr. Rohan Deshpande, Team Lead |  |  |
+|  |  |  |  |  |
+
+### 
+
+## Education {#education}
+
+| University:  | Carnegie Mellon University |  |  |  |  | Period: |  |  |  | Aug25-May27 |  |  |  |
+| :---- | :---- | :---- | ----- | ----- | :---- | :---- | ----- | ----- | ----- | :---- | ----- | ----- | ----- |
+|  | Degree:  | Masters of Science Robotic Systems Development |  |  |  | Period:  |  |  |  | Aug25-May272 years |  |  |  |
+|  | Department: | Robotics Institute, School of Computer Science |  |  |  | Grade: |  |  |  |  |  |  |  |
+|  | Courses: | **Engineering:** Manipulation, Estimation, & Control Systems Engineering and Management for Robotics Robot Mobility on Air, Land, & Sea Computer Vision Robot Autonomy  |  |  | **Business:**  Introduction to Robotics Business Advanced Topics in Robotics Business  |  |  |  |  |  |  |  |  |
+| University:  | **Indian Institute of Technology Bombay** |  |  |  |  | Period: |  |  |  | Nov21-Jun25 |  |  |  |
+|  | Degree:  | Bachelors of Technology in Mechanical Engineering with Honors and Minor in Systems and Controls Engineering |  |  |  | Period:  |  |  |  | Nov21-Jun254 years |  |  |  |
+|  | Department: | Department of Mechanical EngineeringDepartment of Systems and Controls Engineering |  |  |  | Grade: |  |  |  | 9.29/10 |  |  |  |
+|  |  |  |  |  |  | Rank: |  |  |  | 18/200 |  |  |  |
+|  | Courses: | **Math:** Calculus Linear Algebra Differential Equations Numerical Analysis Operations Modeling and Analysis Mathematical Structures for Control **Mechanics** Theory+Practical**:** Solid Mechanics  Thermodynamics  Fluid Mechanics  Manufacturing Processes Manufacturing Practice Heat Transfer Kinematics and Dynamics of Machines CFD and HT Machine Design Multiscale Materials Informatics, Discovery and Design  Structural Materials Advanced Engineering Dynamics Rapid Product Development |  |  | **Foundation Engineering:** Computer Programming Engineering Mechanics Engineering Graphics & Drawing Electricity & Magnetism Electrical and Electronics Circuits Mechanical Measurements (Theory+Practical) Metrology **Robotics:**  Microprocessors and Automatic Control Guidance & Control of Unmanned Autonomous Vehicles Digital Image Processing Design of Mechatronic Systems Embedded Systems Internet of Things Computer Vision Multivariable Control Linear and Nonlinear Systems Systems Theory Embedded Control & Robotics Signals and Feedback Systems **General:**  Organic & Inorganic Chemistry Physical Chemistry Quantum Physics Biology Economics Psychology Environmental Studies Quantitative Models for Supply Chain Management |  |  |  |  |  |  |  |  |
+
+### 
+
+## Other Industry Experience {#other-industry-experience}
+
+|  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- |
+| Company:  |  |  | Period: |  |
+|  | Role:  |  | Period:  |  |
+|  |  |  |  |  |
+|  | Role:  |  | Period:  |  |
+|  |  |  |  |  |
+| Company:  | **Bajaj Auto LTD** |  | Period: | Jan24- Mar24 |
+|  | Project:  | Engine Design for Eco-fuels | Period:  | Jan24- Mar24 |
+|  |  | Part of a 3-member team; secured 2nd place nationwide in TORQ among 4.2K+ students, received 2.4k$ cash prize and PPI Proposed changes in design and materials of parts of a 2-wheeler drivetrain to improve compatibility with eco-fuels Identified monetary benefits of $ 4B+ p.a. and proposed business and logistical re-models for aid large-scale adoption |  |  |
+| Company:  | **Solinas** |  | Period: | Nov23- Dec23 |
+|  | Project:  | Waterproof Extendable Shaft for Slurry Mixing | Period:  | Nov23- Dec23 |
+|  |  | Part of a 5-member team; secured 4th place in Inter IIT Tech Meet 12.0 among 23 IITs, bagged overall 3rd place nationwide Designed a telescopic mechanism to extend from 1 mts to 5 mts with a single touch gear change using a common motor Developed control algorithm allowing flexibility in shaft length and mixer torque along with a user interaction panel  |  |  |
+| Company:  | **Jaguar LandRover** |  | Period: | Jan23 \- Mar23 |
+|  | Project:  | Autonomous Charging Station  | Period:  | Jan23 \- Mar23 |
+|  |  | Part of a 15-member team; secured 2nd place in Inter IIT Tech Meet 11.0 among 23 IITs, bagged overall 4th place nationwide Characterized a cuboidal workspace to design and optimize links of a 5 DoF robotic arm to plug in EV chargers in sockets Developed full navigation stack from socket identification scans, planning and motion in cluttered environment and push-in manoeuvre. Optimized energy consumption in trajectories by generating minimum snap trajectories. Used YOLOv7 to detect position and calculate orientation of sockets. Used encoders and camera feed to localize with AMCL |  |  |
+|  |  |  |  |  |
+
+### 
+
+## Research Experience {#research-experience}
+
+|  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- |
+| Organization and/or Lab:  |  |  | Period: |  |
+|  | Project: |  | Period:  |  |
+|  |  |  |  |  |
+|  | Project:  |  | Period:  |  |
+|  |  |  |  |  |
+| Organization and/or Lab:  | **Mars Rover Team** IIT Bombay u/g Prof. PJ Guruprasad |  | Period: | Feb22-Apr253 years |
+|  | A 40-member team building rovers compatible for extreme terrain traversal, robotic manipulation, remote biological experimentation, on-board edge computing and autonomous capabilities |  |  |  |
+|  | Project: | Hybrid drilling and digging end effector | Period:  |  |
+|  |  | Developed an end effector capable of drilling and soil sampling at the same time. Optimized link lengths using kinematic and dynamic analysis to obtain a wide range of motion with minimal torque requirements Used soil properties and structural model to estimate forces exerted on a digging claw. Used these forces to perform topological optimization  |  |  |
+|  | Project: | ORFL Suspension | Period:  |  |
+|  |  | Increased geometric trafficability of the rover by researching new suspension designs. Used minimum normal contact as a design motive to develop a novel obverse and reverse link suspension Developed parameters to quantify results of multi body simulation and used them to optimize link lengths of the new suspension design  |  |  |
+|  |  Skills:	CAD Modelling, Control System design, Finite Element Analysis, DC motor control, SLAM and Localization (EKF and AMCL), CNC machining, Laser cutting, GD\&T Software: MATLAB, SolidWorks, Ansys, Adams, ROS  |  |  |  |
+| Organization and/or Lab:  | **ARMS Lab** Autonomous Robots & Muilti-agent Systems (ARMS) Lab, IIT Bombay u/g Prof. Leena Vachhani |  | Period: | Dec22-Aug239 months |
+|  | Project: |  | Period:  | Dec22-Aug23 |
+|  |  | Explored usage of ROS for simulation of navigation and control of a 6 DoF Unmanned Underwater Vehicle (UUV) and use of sonars for seabed exploration including  Implemented potential function in formulating the control law and switching states stability algorithm to simulate global homing feature of a swarm of robots characterized with collision avoidance Utilized Deep Learning algorithms to identify & classify objects, vehicles & pedestrians using 2D-Lidar from a vehicle Skills:	Distributed control system design, Robotic simulation, Motion Planning, Machine Learning Software: ROS, Gazebo, Sckikit Learn  |  |  |
+| Organization and/or Lab:  | **Stoch Lab** Stochastic Robotics, IISc Bangalore |  | Period: | Feb23-Aug237 months |
+|  | Project: | Biped Foot Design u/g PhD Manan Tayal | Period:  | Feb23-Aug23 |
+|  |  | Studied dynamics of human gait for inspiration in designing of robot leg along with mathematical kinematic models Modelled human muscles to replicate functionality and energy efficiency in an actuated 3 DoF foot design  |  |  |
+|  |  |  |  |  |
+
+### 
+
+## Projects {#projects}
+
+|  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- |
+| Project:  |  |  | Period: |  |
+|  | Affiliation:  |  |  |  |
+|  |  |  |  |  |
+| Project:  | **Small Business Web Management** |  | Period: | May25-Jul25 |
+|  | Affiliation:  | Ansure Tech Solutions |  |  |
+|  |  |  |  |  |
+| Project:  | **Carbon Negative Cycling** |  | Period: | Aug24-Feb25 |
+|  | Affiliation:  | Self |  |  |
+|  | Developed a solid-state diffusion based chemical reaction to absorb carbon dioxide directly from the atmosphere Fabricated a bicycle powered pump with crank shaft mechanism to maintain pressure, boosting efficiency of the reaction  |  |  |  |
+| Project:  | **Logistics Robot** |  | Period: | Aug24-Nov24 |
+|  | Affiliation:  | e-YRC by e-Yantra |  |  |
+|  | Developing a navigation stack to use a UR5 robot arm to autonomously work in a warehouse. Using ROS2 and Nav2 with EKF and ACML to localize and plan trajectories for object picking Using on-board camera for object detection and localization with aruco markers using OpenCV2; integrating with Nav2   |  |  |  |
+|  |  |  |  |  |
+
+### 
+
+## Management Roles {#management-roles}
+
+### **Teaching Assistant** {#teaching-assistant}
+
+| University | Course | Professor | Period |
+| :---- | :---- | :---- | :---- |
+|  |  |  |  |
+| IIT Bombay | Analysis and Design of Mechanical Systems | P. Seshu | Jan25-May25 |
+| IIT Bombay | Computer Programming and Utilization | Manoj Prabhakaran | Aug24-Nov24 |
+| IIT Bombay | Design of Mechatronic Systems | Prasanna Gandhi | May24-Nov24 |
+| IIT Bombay | Physical Chemistry | Naresh Patwari | Aug23-Oct23 |
+| IIT Bombay | Computer Programming and Utilization | Suyash Awate | Aug23-Nov23 |
+
+|  |  |  |  |  |
+| :---- | :---- | :---- | :---- | :---- |
+| Organization:  |  |  | Period: |  |
+|  | Role:  |  | Period:  |  |
+|  |  |  |  |  |
+|  | Role:  |  | Period:  |  |
+|  |  |  |  |  |
+| Organization:  | **Inter IIT Technical Board** |  | Period: | Oct24-Jul25 |
+|  | Role:  | Chairman (ex officio Overall Coordinator) | Period:  | Oct24-Jul25 |
+|  |  |  |  |  |
+|  | Role:  | Overall Coordinator, Inter IIT Tech Meet 13.0 | Period:  | Oct24-Jul25 |
+|  |  |  |  |  |
+| Organization:  | **Mars Rover Team IIT Bombay** |  | Period: | Feb22-Apr25 |
+|  | Role:  | Team Lead | Period:  | Jun24-Apr25 |
+|  |  |  |  |  |
+|  | Role:  | Head, Mechanical RnD | Period:  | Oct23-May24 |
+|  |  |  |  |  |
+|  | Role:  | Design Engineer | Period:  | May23-Sep23 |
+|  |  |  |  |  |
+|  | Role:  | Junior Design Engineer | Period:  | Jul22-Apr23 |
+|  |  |  |  |  |
+| Organization:  | **Institute Technical Council** IIT Bombay |  | Period: | Jun23-Mar24 |
+|  | Role:  | Manager | Period:  | Jun23-Mar24 |
+|  |  |  |  |  |
+| Organization:  | **Electronics and Robotics Club** IIT Bombay |  | Period: | May22-Mar24 |
+|  | Role:  | Manager | Period:  | Jun23-Mar24 |
+|  |  |  |  |  |
+|  | Role:  | Convener | Period:  | May22-Mar23 |
+|  |  |  |  |  |
+| Organization:  | **Student Mentorship Program** IIT Bombay |  | Period: | Apr23-Apr25 |
+|  | Role:  | Institute Mentor | Period:  | Apr24-Apr25 |
+|  |  |  |  |  |
+|  | Role:  | Department Mentor | Period:  | Apr23-Jul24 |
+|  |  |  |  |  |
+| Organization:  | **Mechanical Engineering Association** Department of Mechanical Engineering IIT Bombay |  | Period: | Dec21-Oct24 |
+|  | Role:  | Representative for Minor in Robotics | Period:  | Jul23-Oct24 |
+|  |  |  |  |  |
+|  | Role:  | Academic Representative | Period:  | Dec21-Dec23 |
+|  |  |  |  |  |
+|  | Role:  | Core Member, Events | Period:  | Jan22-Mar24 |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+### 
+
+## Extra-Curriculars {#extra-curriculars}
+
+### 
