@@ -13,7 +13,7 @@ I pursued my undergraduate from Indian Institute of Technology Bombay with a maj
 
 ## Latest Projects and Updates
 <div class="scrolling-wrapper">
-  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>[Manufacturing Management Portal]()</h2></div>
   <div class="card"><h2>Card</h2></div>
   <div class="card"><h2>Card</h2></div>
   <div class="card"><h2>Card</h2></div>
