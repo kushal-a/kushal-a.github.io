@@ -12,7 +12,17 @@ I am a graduate student at Carnegie Mellon University, pursuing Masters of Scien
 I pursued my undergraduate from Indian Institute of Technology Bombay with a major in Mechanical Engineering and minor in Systems and Controls Engineering. During my undergraduate I had the opportunity to work with Prof. Vivek Sangwan and Prof. Prasanna Gandhi. I was also a member of the IIT Bombay Mars Rover Team, developing mechanical solutions for Martian rovers.
 
 ## Latest Projects and Updates
-
+<div class="scrolling-wrapper">
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+  <div class="card"><h2>Card</h2></div>
+</div>
 
 ## Research Interest
 
