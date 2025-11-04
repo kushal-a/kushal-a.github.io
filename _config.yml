@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Kushal Agarwal"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics Enthusiast"
+  bio              : "Full Stack Roboticist"
   location         : "Pittsburgh, PA, USA"
   employer         : "Carnegie Mellon University"
   uri              : # URL
@@ -59,9 +59,8 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "kushal_agarwall" # Username
   lastfm           : # Username
-  linkedin         : "kushal-agarwal-763814163" # Username
+  linkedin         : "a-kushal" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,12 +78,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  patents:
+    title: 'Patents'
+  case_studies:
+    title: 'Case Studies'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -225,16 +222,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
   projects:
-    output: true
-    permalink: /:collection/:path/
-  patents:
-    output: true
-    permalink: /:collection/:path/
-  case_studies:
     output: true
     permalink: /:collection/:path/
   
@@ -288,36 +279,20 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
   # _projects
   - scope:
       path: ""
       type: projects
     values:
       layout: project
-      author_profile: true
-      share: true
-  # _case_studies
-  - scope:
-      path: ""
-      type: case_studies
-    values:
-      layout: case_study
-      author_profile: true
-      share: true
-  # _patents
-  - scope:
-      path: ""
-      type: patents
-    values:
-      layout: patent
       author_profile: true
       share: true
   
