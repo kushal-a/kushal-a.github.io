@@ -13,21 +13,19 @@ I pursued my undergraduate from Indian Institute of Technology Bombay with a maj
 
 ## Research Interest
 
-<ul>
-  <li>[Robot Pose Estimation using only RGB stream]()</li>
-  <li>[General indoor navigation for humanoids and all mobile manipulators]()</li>
-</ul>
+- [Robot Pose Estimation using only RGB stream](https://kushal-a.github.io/portfolio/2025-08-01-posediff_vlr/)</li>
+- [General indoor navigation for humanoids and all mobile manipulators](https://kushal-a.github.io/portfolio/2026-10-01-legged_mrsd/)
 
 ## For Recruiters
 
 I am looking for an internship for the Summer of 2026. I want to work on computer vision applications in robotics. I am also open to work on robotic controls and robot learning. Below is a summary of experiences that would be relevant to the roles I am looking for.
-<ul>
-  <li>[]()</li>
-  <li>[]()</li>
-  <li>[]()</li>
-  <li>[]()</li>
-  <li>[]()</li>
-  <li>[]()</li>
+
+- [Autonomous Charging Station](https://kushal-a.github.io/portfolio/2023-03-30-interiit_jlr/)
+- [Systemantics India (Internship)](https://kushal-a.github.io/portfolio/2023-07-15-systemantics/)
+- [CPS, TU Darmstadt (Internship)](https://kushal-a.github.io/portfolio/2024-07-15-cps-tudarmstadt/)
+- [Robot Pose Estimation using only RGB stream](https://kushal-a.github.io/portfolio/2025-08-01-posediff_vlr/)
+- [General indoor navigation for humanoids and all mobile manipulators](https://kushal-a.github.io/portfolio/2026-10-01-legged_mrsd/)
+- [Mars Rover](https://kushal-a.github.io/portfolio/2024-05-01-mrt/)</li>
 </ul>
 
 
