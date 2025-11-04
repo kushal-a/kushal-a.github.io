@@ -24,7 +24,7 @@ We are developing a mobile manipulator platform capable of safe, reliable, and g
 - High-level task planning and skill composition, enabling long-horizon missions such as “navigate from office A to lab B across floors. Then grab me a coke from the kitchen on the second floor and bring it to me”
 - Using VLM for general perception (segmenting elevator buttons, interacting with elevator panels)
 
-![Objective Tree](../images/portfolio/legged/obj_tree.png "Objectives Tree")
+![Objective Tree](/images/portfolio/legged/obj_tree.png "Objectives Tree")
 
 ## [Repository](https://github.com/VectorRobotics)
 
@@ -32,4 +32,4 @@ Dedicated website coming up soon.
 
 ## Contributors
 
-![Team Picture](../images/portfolio/legged/legged_team.png "Team Picture")
+![Team Picture](/images/portfolio/legged/legged_team.png "Team Picture")
