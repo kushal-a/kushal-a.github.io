@@ -81,197 +81,88 @@ redirect_from:
 ## Education {#education}
 
 ### **Carnegie Mellon University**
+**Degree:** Masters of Science Robotic Systems Development 
 
-:::{list-table}
-*  - dfgh
-   - rt
-   - dfrtg
-:::
-| **Degree:** | Masters of Science Robotic Systems Development |
-| **Department:** | Robotics Institute, School of Computer Science |
+**Department:** Robotics Institute, School of Computer Science 
+
+**Period:** Aug '25 - May '27
+
+**Courses:**
+<!-- - Engineering: -->
+- Manipulation, Estimation, &amp; Control
+- Systems Engineering and Management for Robotics
+- Robot Mobility on Air, Land, &amp; Sea
+- Computer Vision
+- Visual Learning and Recognition
+    <!-- - Robot Autonomy -->
+<!-- - Business: -->
+
+### **Indian Institute of Technology Bombay**
+**Degree:** Bachelors of Technology in Mechanical Engineering with Honors and Minor in Systems and Controls Engineering
+
+**Department:** Mechanical Engineering, Systems and Controls Engineering 
+
+**Period:** Oct '21 - May '25
+
+**Rank:** 18/190
+
+**Grade:** 9.29/10
 
 
 
-<table border="0" cellspacing="0" cellpadding="0" class="ta1">
-        <colgroup>
-            <col width="99" />
-            <col width="291" />
-            <col width="82" />
-            <col width="70" />
-            <col width="137" />
-        </colgroup>
-        <tr class="ro1">
-            <td colspan="3" style="text-align:left;width:2.258cm; " class="ce1">
-                <h3></h3>
-            </td>
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Period:</p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce5">
-                <p>Aug25-May27</p>
-            </td>
-        </tr>
-        <tr class="ro2">
-            <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p> </p>
-            </td>
-            <td colspan="2" style="text-align:left;width:6.664cm; " class="ce5">
-                <p></p>
-            </td>
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Period: </p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce5">
-                <p>Aug25-May27</p>
-                <p>2 years</p>
-            </td>
-        </tr>
-        <tr class="ro3">
-            <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p></p>
-            </td>
-            <td colspan="2" style="text-align:left;width:6.664cm; " class="ce5">
-                <p></p>
-            </td>
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Grade:</p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce7"> </td>
-        </tr>
-        <tr class="ro4">
-            <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p>Courses:</p>
-            </td>
-            <td style="text-align:left;width:6.664cm; " class="ce6">
-                <p><span class="T1">Engineering:</span></p>
-                <p>Manipulation, Estimation, &amp; Control</p>
-                <p>Systems Engineering and Management for Robotics</p>
-                <p>Robot Mobility on Air, Land, &amp; Sea</p>
-                <p>Computer Vision</p>
-                <p>Robot Autonomy</p>
-            </td>
-            <td colspan="3" style="text-align:left;width:1.887cm; " class="ce6">
-                <p><span class="T1">Business: </span></p>
-                <p>Introduction to Robotics Business</p>
-                <p>Advanced Topics in Robotics Business</p>
-            </td>
-        </tr>
-        <tr class="ro1">
-            <td colspan="3" style="text-align:left;width:2.258cm; " class="ce1">
-                <h3>Indian Institute of Technology Bombay</h3>
-            </td>
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Period:</p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce5">
-                <p>Nov21-Jun25</p>
-            </td>
-        </tr>
-        <tr class="ro5">
-            <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p>Degree: </p>
-            </td>
-            <td colspan="2" style="text-align:left;width:6.664cm; " class="ce5">
-                <p>Bachelors of Technology in Mechanical Engineering with Honors and Minor in Systems and Controls
-                    Engineering</p>
-            </td>
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Period: </p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce5">
-                <p>Nov21-Jun25</p>
-                <p>4 years</p>
-            </td>
-        </tr>
-        <tr class="ro3">
-            <td rowspan="2" style="text-align:left;width:2.258cm; " class="ce2">
-                <p>Department:</p>
-            </td>
-            <td colspan="2" rowspan="2" style="text-align:left;width:6.664cm; " class="ce5">
-                <p>Department of Mechanical Engineering</p>
-                <p>Department of Systems and Controls Engineering</p>
-            </td>
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Grade:</p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce5">
-                <p>9.29/10</p>
-            </td>
-        </tr>
-        <tr class="ro3">
-            <td style="text-align:left;width:1.612cm; " class="ce2">
-                <p>Rank:</p>
-            </td>
-            <td style="text-align:left;width:3.14cm; " class="ce5">
-                <p>18/200</p>
-            </td>
-        </tr>
-        <tr class="ro6">
-            <td style="text-align:left;width:2.258cm; " class="ce2">
-                <p>Courses:</p>
-            </td>
-            <td style="text-align:left;width:6.664cm; " class="ce6">
-                <p><span class="T1">Math:</span></p>
-                <p>Calculus</p>
-                <p>Linear Algebra</p>
-                <p>Differential Equations</p>
-                <p>Numerical Analysis</p>
-                <p>Operations Modeling and Analysis</p>
-                <p>Mathematical Structures for Control</p>
-                <p> </p>
-                <p> </p>
-                <p><span class="T1">Mechanics Theory+Practical:</span></p>
-                <p>Solid Mechanics </p>
-                <p>Thermodynamics </p>
-                <p>Fluid Mechanics </p>
-                <p>Manufacturing Processes</p>
-                <p>Manufacturing Practice</p>
-                <p>Heat Transfer</p>
-                <p>Kinematics and Dynamics of Machines</p>
-                <p>CFD and HT</p>
-                <p>Machine Design</p>
-                <p>Multiscale Materials Informatics, Discovery and Design </p>
-                <p>Structural Materials</p>
-                <p>Advanced Engineering Dynamics</p>
-                <p>Rapid Product Development</p>
-            </td>
-            <td colspan="3" style="text-align:left;width:1.887cm; " class="ce6">
-                <p><span class="T1">Foundation Engineering:</span></p>
-                <p>Computer Programming</p>
-                <p>Engineering Mechanics</p>
-                <p>Engineering Graphics &amp; Drawing</p>
-                <p>Electricity &amp; Magnetism</p>
-                <p>Electrical and Electronics Circuits</p>
-                <p>Mechanical Measurements (Theory+Practical)</p>
-                <p>Metrology</p>
-                <p> </p>
-                <p> </p>
-                <p><span class="T1">Robotics: </span></p>
-                <p>Microprocessors and Automatic Control</p>
-                <p>Guidance &amp; Control of Unmanned Autonomous Vehicles</p>
-                <p>Digital Image Processing</p>
-                <p>Design of Mechatronic Systems</p>
-                <p>Embedded Systems</p>
-                <p>Internet of Things</p>
-                <p>Computer Vision</p>
-                <p>Multivariable Control</p>
-                <p>Linear and Nonlinear Systems</p>
-                <p>Systems Theory</p>
-                <p>Embedded Control &amp; Robotics</p>
-                <p>Signals and Feedback Systems</p>
-                <p> </p>
-                <p><span class="T1">General: </span></p>
-                <p>Organic &amp; Inorganic Chemistry</p>
-                <p>Physical Chemistry</p>
-                <p>Quantum Physics</p>
-                <p>Biology</p>
-                <p>Economics</p>
-                <p>Psychology</p>
-                <p>Environmental Studies</p>
-                <p>Quantitative Models for Supply Chain Management</p>
-            </td>
-        </tr>
-    </table>
+**Courses:**
+- Math:
+    - Calculus
+    - Linear Algebra
+    - Differential Equations
+    - Numerical Analysis
+    - Operations Modeling and Analysis
+    - Mathematical Structures for Control
+- Mechanics Theory+Practical:
+    - Solid Mechanics 
+    - Thermodynamics 
+    - Fluid Mechanics 
+    - Manufacturing Processes
+    - Manufacturing Practice
+    - Heat Transfer
+    - Kinematics and Dynamics of Machines
+    - CFD and HT
+    - Machine Design
+    - Multiscale Materials Informatics, Discovery and Design 
+    - Structural Materials
+    - Advanced Engineering Dynamics
+    - Rapid Product Development
+- Foundation Engineering:
+    - Computer Programming
+    - Engineering Mechanics
+    - Engineering Graphics &amp; Drawing
+    - Electricity &amp; Magnetism
+    - Electrical and Electronics Circuits
+    - Mechanical Measurements (Theory+Practical)
+    - Metrology
+- Robotics:
+    - Microprocessors and Automatic Control
+    - Guidance &amp; Control of Unmanned Autonomous Vehicles
+    - Digital Image Processing
+    - Design of Mechatronic Systems
+    - Embedded Systems
+    - Internet of Things
+    - Computer Vision
+    - Multivariable Control
+    - Linear and Nonlinear Systems
+    - Systems Theory
+    - Embedded Control &amp; Robotics
+    - Signals and Feedback Systems
+- General: 
+    - Organic &amp; Inorganic Chemistry
+    - Physical Chemistry
+    - Quantum Physics
+    - Biology
+    - Economics
+    - Psychology
+    - Environmental Studies
+    - Quantitative Models for Supply Chain Management
+
 
 
 ## Other Industry Experience {#other-industry-experience}
