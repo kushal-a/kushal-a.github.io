@@ -13,7 +13,7 @@ I pursued my undergraduate from Indian Institute of Technology Bombay with a maj
 
 ## Research Interest
 
-- [Robot Pose Estimation using only RGB stream](https://kushal-a.github.io/portfolio/2025-08-01-posediff_vlr/)</li>
+- [Robot Pose Estimation using only RGB stream](https://kushal-a.github.io/portfolio/2025-08-01-posediff_vlr/)
 - [General indoor navigation for humanoids and all mobile manipulators](https://kushal-a.github.io/portfolio/2026-10-01-legged_mrsd/)
 
 ## For Recruiters
