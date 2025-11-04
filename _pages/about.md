@@ -7,35 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Carnegie Mellon University, pursuing Masters of Science in Robotic Systems Development. I am open to work on fast-paced projects which are interdisciplinary in nature and have high impact potential.
+I am a graduate student at Carnegie Mellon University, pursuing Masters of Science in Robotic Systems Development. I am interested in mobile manipulators and legged robots. My areas of expertise are Control Systems, ROS, Robotic Simulation, Embedded Development and Computer-Aided Design. I am currently pushing frontiers for Computer Vision using learning based methods.
 
-I pursued my undergraduate from Indian Institute of Technology Bombay with a major in Mechanical Engineering and minor in Systems and Controls Engineering. During my undergraduate I had the opportunity to work with Prof. Vivek Sangwan and Prof. Prasanna Gandhi. I was also a member of the IIT Bombay Mars Rover Team, developing mechanical solutions for Martian rovers.
-
-## Latest Projects and Updates
-<div class="scrolling-wrapper">
-  <div class="card">
-    <h3> Manufacturing Management Portal </h3>
-    <p> Made with HTML, JS, PHP and SQL to manage jobs at manufacturing farms </p>
-  </div>
-  <div class="card">
-    <h3>Card</h3>
-  </div>
-  <div class="card"><h3>Card</h3></div>
-  <div class="card"><h3>Card</h3></div>
-</div>
+I pursued my undergraduate from Indian Institute of Technology Bombay with a major in Mechanical Engineering and minor in Systems and Controls Engineering. During my undergraduate I had the opportunity to work with [Prof. Vivek Sangwan](https://www.me.iitb.ac.in/faculty/prof-vivek-sangwan) and [Prof. Prasanna Gandhi](https://www.me.iitb.ac.in/~gandhi/). I was also a member of the IIT Bombay Mars Rover Team, developing mechanical solutions for Martian rovers.
 
 ## Research Interest
 
-I am motivated by working across borders of traditional engineering domains. I have a stark interest in robotics. More specifically, I want to work build fully autonomous robots that work collaboratively with humans, have high agility of motion, capable of quick decision making as well as long-term planning and have the ability to make high impact in our society. 
+<ul>
+  <li>[Robot Pose Estimation using only RGB stream]()</li>
+  <li>[General indoor navigation for humanoids and all mobile manipulators]()</li>
+</ul>
 
-## Experiences
+## For Recruiters
 
-
-
-## Teaching and Leadership
-
-
-
-## Awards and Honors
+I am looking for an internship for the Summer of 2026. I want to work on computer vision applications in robotics. I am also open to work on robotic controls and robot learning. Below is a summary of experiences that would be relevant to the roles I am looking for.
+<ul>
+  <li>[]()</li>
+  <li>[]()</li>
+  <li>[]()</li>
+  <li>[]()</li>
+  <li>[]()</li>
+  <li>[]()</li>
+</ul>
 
 

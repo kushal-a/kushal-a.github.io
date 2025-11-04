@@ -1,0 +1,13 @@
+---
+title: "Martian Rovers"
+excerpt: "Developed autonomous rovers capable of traversing complex terrain and dextrous manipulation <br/><img src='/images/mrt23.png'>"
+collection: portfolio
+---
+- Integrated new technologies like ORFL suspension, harmonic drives, modular joint and wheel systems, and long-range communication into rover designs. 
+- Participated at the International Rover Challenge and bagged Best Performance in Bio-Analysis Task
+- Established an R&D wing, 1st time in a student team at IIT Bombay, promoting focused research and intellectual property. 
+- Led new projects of active suspension design, soil force analysis, and multipurpose end-effector, opening up the team to focus on advanced technology development and implementation.
+- Designed a new generation of robotic arm for IROC, a rover design competition by ISRO, Government of India. 
+- Used novel telescopic mechanisms and compliant joints to boost dexterity. 
+- Introduced a system-design-first approach in the team, bringing about methodological and sustained research activities.
+- Designed a new version of the robotic arm, increasing payload capacity by 50%. Developed key Design for Assembly and Design for Manufacturing principles
