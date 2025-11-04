@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "air"
 title                    : "Kushal Agarwal"
 title_separator          : "-"
 name                     : &name "Kushal Agarwal"
