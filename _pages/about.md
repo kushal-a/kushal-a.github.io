@@ -10,14 +10,14 @@ redirect_from:
 
 I am a graduate student at [Carnegie Mellon University](https://cmu.edu), pursuing Masters of Science in Robotic Systems Development. 
 
-I am interested in mobile manipulators and legged robots. My areas of expertise are Control Systems, ROS, Robotic Simulation, Embedded Development and Computer-Aided Design. I am currently pushing frontiers for Computer Vision using learning based methods.
+I am interested in mobile manipulators and legged robots. My areas of expertise are Control Systems, ROS, Robotic Simulation, Embedded Development and Computer-Aided Design. I am currently pushing frontiers for computer vision using learning based methods and legged-based generalist navigation.
 
-I pursued my undergraduate from [Indian Institute of Technology Bombay](https://iitb.ac.in) with a major in Mechanical Engineering and minor in Systems and Controls Engineering. During my undergraduate I had the opportunity to work with [Prof. Vivek Sangwan](https://www.me.iitb.ac.in/faculty/prof-vivek-sangwan) and [Prof. Prasanna Gandhi](https://www.me.iitb.ac.in/~gandhi/). I was also a member of the IIT Bombay Mars Rover Team, developing mechanical solutions for Martian rovers.
+I completed my undergraduate from [Indian Institute of Technology Bombay](https://iitb.ac.in) with a major in Mechanical Engineering and a minor in Systems and Controls Engineering. During my undergraduate I had the opportunity to work with [Prof. Vivek Sangwan](https://www.me.iitb.ac.in/faculty/prof-vivek-sangwan) and [Prof. Prasanna Gandhi](https://www.me.iitb.ac.in/~gandhi/). I was also a member of the [IIT Bombay Mars Rover Team](https://iitbmartian.github.io/), developing mechanical solutions for Martian rovers.
 
 ## Research Interest
 
 - [Robot Pose Estimation using only RGB stream](https://kushal-a.github.io/portfolio/2025-08-01-posediff_vlr/)
-- [General indoor navigation for humanoids and all mobile manipulators](https://kushal-a.github.io/portfolio/2026-10-01-legged_mrsd/)
+- [General indoor navigation for humanoids and all mobile manipulators](https://kushal-a.github.io/portfolio/2025-11-04-legged_mrsd/)
 
 ## For Recruiters
 
