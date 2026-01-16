@@ -21,7 +21,7 @@ I completed my undergraduate from [Indian Institute of Technology Bombay](https:
 
 ## For Recruiters
 
-I am looking for an internship for the Summer of 2026. I want to work on computer vision applications in robotics. I am also open to work on robotic controls and robot learning. Below is a summary of experiences that would be relevant to the roles I am looking for.
+I am looking for an internship for the summer of 2026. I want to work on computer vision applications in robotics. I am also open to working on robotic controls and robot learning. Below is a summary of experiences that would be relevant to the roles I am looking for.
 
 - [Autonomous Charging Station](https://kushal-a.github.io/portfolio/2023-03-30-interiit_jlr/)
 - [Systemantics India (Internship)](https://kushal-a.github.io/portfolio/2023-07-15-systemantics/)
