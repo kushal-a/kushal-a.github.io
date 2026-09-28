@@ -1,36 +1,40 @@
 ---
-title: "General Indoor Navigation of Humanoid Robots"
+title: "Amazon Industrial Robotics Group"
 seo_title: "Amazon Industrial Robotics Internship | Kushal Agarwal"
-excerpt: "Developing generalist policies for indoor navigation in humanoid and other legged systems<br/><img src='/images/portfolio/legged/legged_team.png'>"
+excerpt: "Working on development of highly dynamic industrial robot capable of performing human like tasks across locomotion and manipulation"
 collection: portfolio
 ---
 
+PS: This page is intentionally vague
+
 ## Overview
-We are developing a mobile manipulator platform capable of safe, reliable, and generalizable autonomy in human environments. The system will demonstrate full building-scale navigation and interaction—handling tasks such as operating elevators, opening doors, traversing staircases, and moving across multiple floors—without human intervention. 
+Industrial Robotics Group at Amazon is building revolutionary robotic systems that combine innovative AI, sophisticated control systems, and advanced mechanical design to create adaptable automation solutions capable of working safely alongside humans in dynamic environments. The team is developing advanced robots along the axis of robotic manipulation, locomotion, and human-robot interaction. 
 
-## Technical Approach
-### 3D Mapping & Localization:
-- High-precision SLAM (fastlio2) and global local planning (3D A*, cmu_local_planner) for robust navigation in dynamic, cluttered spaces.
-### Perception & Scene Understanding: 
-- Fusion of LiDAR, RGB-D, and semantic models for reliable obstacle avoidance, spatial reasoning, and environment grounding.
-### Manipulation Capabilities:
-- Dexterous interaction with common infrastructure i.e. button pressing, door pushing/pulling, object placement.
-### Locomotion Capabilities: 
-- Reinforcement learning based control for robust and smooth locomotion on plane, rough terrain and stairs
-- Capable of push-recovery and fall-recovery
-### Learning & Adaptation:
-- Reinforcement learning and imitation learning in simulation (Isaac Gym, MuJoCo)
-- Policy transferred to hardware for real-world tasks.
-### Agentic Autonomy:
-- High-level task planning and skill composition, enabling long-horizon missions such as “navigate from office A to lab B across floors. Then grab me a coke from the kitchen on the second floor and bring it to me”
-- Using VLM for general perception (segmenting elevator buttons, interacting with elevator panels)
+I had the opportunity to work with [Yuri Ivanov](https://www.amazon.science/author/yuri-ivanov)'s RnD team to develop robotic and perception systems with rigorous scientific analysis to guide product development.  
 
-![Objective Tree](/images/portfolio/legged/obj_tree.png "Objectives Tree")
+## My contributions
 
-## [Repository](https://github.com/VectorRobotics)
+### State estimation and control in dynamic robot systems with closed chains
 
-Dedicated website coming up soon.
+Robots that have discontinuous ground contact have unique dynamics with each contact state. For fast localization of the pose of a root link of the robot, such dynamics have to be used with proprioceptive robot state measurement. Such dynamic systems also require high frequency and precise control especially when the kinematic structure contains closed chains. 
 
-## Contributors
+I integrated an invariant-EKF with robot dynamics served by pinocchio and proprioceptive data from joint encoders, IMU, and contact pressure sensors. This could provide accurate 6 DoF pose estimation of the root link. I also explored various contact models to map contact pressure readings and data from other sensors to model contact state transitions. 
 
-![Team Picture](/images/portfolio/legged/legged_team.png "Team Picture")
+For controlling closed loop chains with 4 joints (2 input and 2 output), I developed an output space impedance controlled with a control barrier function to get safe and simplified output joint dynamics. 
+
+### Precise and simultaneous calibration of exteroceptive sensor
+
+Given a rigid arrangement of RGB cameras, thermal(LWIR) cameras and LiDARs, I developed algorithms and procedures for intrinsic and extrinsic calibration at manufacturing-scale and precision.
+
+RGB and LWIR sensors measure a large span of wavelengths and developing calibration target that could provide identifiable, diverse, and distinguishable points across multiple wavelengths is non-trivial. Having simultaneous targets allows single shot calibration of both sensors saving time, space and money as an alternate to having separate procedures per sensor and then an extrinsic calibration. To this end, I developed custom calibration targets that could be visible in the full visible to far IR spectrum. 
+
+Positioning the sensors with respect to calibration boards defined the diversity of data for calibration. Having poor data diversity can severely lower the observability of various camera model and extrinsic parameters. It is important to carefully choose these positions to maximize the amount of sensitivity that a dataset can provide with respect to the parameters. For optimally choosing these viewpoints, I used Fischer information to evaluate a set of viewpoints for excitation of camera model parameters and maximized the information (determinant) with respect to the trajectory for optimal positioning. 
+
+<figure>
+  <img src="../images/portfolio/amazon/trajectory_opti.gif" alt="A descriptive alt text">
+  <figcaption>The solver is initialized with a simple circular trajectory, as shown on the left. The resultant optimized trajectory is on the right. The sensor system consists of 4 cameras (C1-4) placed in a radially outward looking orientation on a circle.</figcaption>
+</figure>
+I assembled a full calibration system, with a robot to move this rigid group of sensors with respect to the calibration boards with the optimal poses chosen. This data is collected and then an optimizer calculated the camera model parameters. The result is validated for reaching the global minimum and correspondingly the result is accepted. 
+
+
+
