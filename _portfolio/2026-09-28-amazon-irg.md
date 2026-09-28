@@ -31,7 +31,7 @@ RGB and LWIR sensors measure a large span of wavelengths and developing calibrat
 Positioning the sensors with respect to calibration boards defined the diversity of data for calibration. Having poor data diversity can severely lower the observability of various camera model and extrinsic parameters. It is important to carefully choose these positions to maximize the amount of sensitivity that a dataset can provide with respect to the parameters. For optimally choosing these viewpoints, I used Fischer information to evaluate a set of viewpoints for excitation of camera model parameters and maximized the information (determinant) with respect to the trajectory for optimal positioning. 
 
 <figure>
-  <img src="../images/portfolio/amazon/trajectory_opti.gif" alt="A descriptive alt text">
+  <img src="/images/portfolio/amazon/trajectory_opti.gif">
   <figcaption>The solver is initialized with a simple circular trajectory, as shown on the left. The resultant optimized trajectory is on the right. The sensor system consists of 4 cameras (C1-4) placed in a radially outward looking orientation on a circle.</figcaption>
 </figure>
 I assembled a full calibration system, with a robot to move this rigid group of sensors with respect to the calibration boards with the optimal poses chosen. This data is collected and then an optimizer calculated the camera model parameters. The result is validated for reaching the global minimum and correspondingly the result is accepted. 
