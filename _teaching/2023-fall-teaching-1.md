@@ -1,5 +1,7 @@
 ---
 title: "CS101"
+seo_title: "CS101 Teaching, Fall 2023 | Kushal Agarwal"
+description: "CS101 teaching assistant at IIT Bombay during fall 2023."
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-teaching-1

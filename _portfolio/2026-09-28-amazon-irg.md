@@ -1,5 +1,6 @@
 ---
 title: "General Indoor Navigation of Humanoid Robots"
+seo_title: "Amazon Industrial Robotics Internship | Kushal Agarwal"
 excerpt: "Developing generalist policies for indoor navigation in humanoid and other legged systems<br/><img src='/images/portfolio/legged/legged_team.png'>"
 collection: portfolio
 ---

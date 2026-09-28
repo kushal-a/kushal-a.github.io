@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Sitemap"
+sitemap: false
+robots: "noindex, follow"
 permalink: /sitemap/
 author_profile: true
 ---

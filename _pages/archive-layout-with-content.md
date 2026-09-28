@@ -1,5 +1,7 @@
 ---
 title: "Archive Layout with Content"
+sitemap: false
+robots: "noindex, follow"
 layout: archive
 permalink: /archive-layout-with-content/
 ---

@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Hello there!"
+seo_title: "Kushal Agarwal | Humanoid Robotics and Autonomous Navigation"
+description: "Kushal Agarwal is a roboticist at Carnegie Mellon University working on humanoid navigation, robot learning, and autonomous systems."
 author_profile: true
 redirect_from: 
   - /about/

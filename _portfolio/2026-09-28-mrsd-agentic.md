@@ -1,5 +1,6 @@
 ---
 title: "General Indoor Navigation of Humanoid Robots"
+seo_title: "Agentic Reinforcement Learning for Robot Skills | Kushal Agarwal"
 excerpt: "Developing generalist policies for indoor navigation in humanoid and other legged systems<br/><img src='/images/portfolio/legged/legged_team.png'>"
 collection: portfolio
 ---

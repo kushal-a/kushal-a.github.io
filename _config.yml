@@ -12,7 +12,7 @@ site_theme               : "air"
 title                    : "Kushal Agarwal"
 title_separator          : "-"
 name                     : &name "Kushal Agarwal"
-description              : &description "personal description"
+description              : &description "Kushal Agarwal is a roboticist at Carnegie Mellon University focused on humanoid robotics, autonomous navigation, control, and robot learning."
 url                      : https://kushal-a.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kushal-a/kushal-a.github.io"
@@ -135,14 +135,16 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
+og_image                 : "/images/profile.png" # Default social preview image
 og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : Person
+  name                   : "Kushal Agarwal"
+  links:
+    - https://github.com/kushal-a
+    - https://www.linkedin.com/in/a-kushal
 
 
 # Analytics
@@ -158,6 +160,15 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/cv.md
+  - _pages/cv-json.md
+  - markdown_generator
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
