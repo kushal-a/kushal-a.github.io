@@ -8,4 +8,4 @@ date: 2026-09-28
 location: "Pittsburgh, PA, USA"
 ---
 
-Served as a teaching assistant under [Prof. hartmut Geyer](https://www.ri.cmu.edu/ri-faculty/hartmut-geyer/)
+Served as a teaching assistant under [Prof. Hartmut Geyer](https://www.ri.cmu.edu/ri-faculty/hartmut-geyer/)
