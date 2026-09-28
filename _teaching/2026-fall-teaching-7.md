@@ -8,4 +8,4 @@ date: 2026-09-28
 location: "Pittsburgh, PA, USA"
 ---
 
-Served as a teaching assistant under [Prof. John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/), [Prof. Guanya Shi](https://www.ri.cmu.edu/ri-faculty/guanya-shi/) and [Prof. Harmut Geyer](https://www.ri.cmu.edu/ri-faculty/hartmut-geyer/)
+Served as a teaching assistant under [Prof. John Dolan](https://www.ri.cmu.edu/ri-faculty/john-m-dolan/), [Prof. Guanya Shi](https://www.ri.cmu.edu/ri-faculty/guanya-shi/) and [Prof. Hartmut Geyer](https://www.ri.cmu.edu/ri-faculty/hartmut-geyer/)
