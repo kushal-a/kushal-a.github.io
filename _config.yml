@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air"
+site_theme               : "dirt" # default, air, sunrise, mint, dirt, contrast
 title                    : "Kushal Agarwal"
 title_separator          : "-"
 name                     : &name "Kushal Agarwal"
