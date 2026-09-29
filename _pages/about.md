@@ -27,7 +27,7 @@ I completed my undergraduate studies at [Indian Institute of Technology Bombay](
 
 I am looking for jobs beginning in the summer of 2027 working on robotic controls and robot learning. Below is a summary of experiences that would be relevant to the roles I am looking for.
 
-- [Efficient sensor calibration algorithms (Internship)](https://kushal-a.github.io/portfolio/2026-09-28-amazon-irg/)
+- [Amazon Industrial Robotics Group (Internship)](https://kushal-a.github.io/portfolio/2026-09-28-amazon-irg/)
 - [System One models in robotics](https://kushal-a.github.io/portfolio/2026-09-28-mmml/)
 - [General indoor navigation for humanoids and all mobile manipulators](https://kushal-a.github.io/portfolio/2025-11-04-legged_mrsd/)
 - [Systemantics India (Internship)](https://kushal-a.github.io/portfolio/2023-07-15-systemantics/)
